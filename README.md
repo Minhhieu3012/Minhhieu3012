@@ -1,18 +1,17 @@
-<h2 align="left">
-  Welcome to my GitHub 👋! My name is Hieu and I'm a Web Developer from Vietnam 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="25" style="vertical-align: middle;"/>
-</h2>
+<h1 align="left">
+  Hi 👋 My name is Hieu Phan 
+</h1>
 
 ###
 
 <p align="left">
-  I’m currently pursuing a degree in Information Technology at Ho Chi Minh University of Transport.<br>
-  Passionate about programming and solving complex problems, I’m committed to continuous learning and growth, with the goal of making meaningful contributions to the field of information technology.</p>
+  I’m pursuing a degree in Information Technology at Ho Chi Minh University of Transport (UTH). I have been building personal projects and continuously growing as a freelance full-stack web            developer.
+</p>
 
 ###
 <hr/>
 
-<h3 align="left">🧛🏼 Connect with me:</h3>
+<h3 align="left">Contact me</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/minh-hieu-phan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -31,6 +30,7 @@
 ###
 <hr/>
 
+<h3 align="left">Skills</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -51,6 +51,7 @@
 ###
 <hr/>
 
+<h3 align="left">Badges</h3>
 <div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Minhhieu3012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=Minhhieu3012&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph" />

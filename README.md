@@ -29,19 +29,19 @@
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring,go" />
 </p>
 
-<h3>Programming & Networking</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,linux,ubuntu" />
-</p>
-
 <h3>Databases</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-<h3>Tools & Platforms</h3>
+<h3>Caching & Messaging</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=redis,kafka" />
+</p>
+
+<h3>DevOps & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,vscode" />
 </p>
 
 ###

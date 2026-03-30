@@ -26,7 +26,7 @@
 
 <h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring,go" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring" />
 </p>
 
 <h3>Databases</h3>

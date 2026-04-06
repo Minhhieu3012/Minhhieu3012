@@ -41,7 +41,7 @@
 
 <h3>DevOps & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
 </p>
 
 ###

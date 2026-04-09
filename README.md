@@ -31,7 +31,7 @@
 
 <h3>Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,php" />
 </p>
 
 <h3>Caching & Messaging</h3>

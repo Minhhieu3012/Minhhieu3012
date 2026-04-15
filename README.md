@@ -11,8 +11,14 @@
 ###
 <hr/>
 
-<h2>📫 Contact me</h2>  
-<p align="left"> <a href="mailto:mjnkhieu3012@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://www.facebook.com/mjnkhieuitsme/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/minh-hieu-phan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://www.youtube.com/@mjnkhieu3012" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://x.com/mjnkhieu3012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://discordapp.com/users/1166961771727302676" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<h2>📫 Contact me</h2>
+<p align="left">
+  <a href="mailto:mjnkhieu3012@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="32"/></a>
+  <a href="https://www.facebook.com/mjnkhieuitsme/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32"/></a>
+  <a href="https://www.linkedin.com/in/minh-hieu-phan/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/></a>
+  <a href="https://www.youtube.com/@mjnkhieu3012"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32"/></a>
+  <a href="https://x.com/mjnkhieu3012"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32"/></a>
+  <a href="https://discordapp.com/users/1166961771727302676"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32"/></a>
 </p>
 
 ###

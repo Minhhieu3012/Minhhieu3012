@@ -32,7 +32,7 @@
 
 <h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring,cpp" />
 </p>
 
 <h3>Databases</h3>

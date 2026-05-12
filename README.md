@@ -27,17 +27,17 @@
 <h2>🛠️ Skills & Technologies</h2>
 <h3>Frontend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,compose" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,kotlin,compose" />
 </p>
 
 <h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,java,spring,cpp,php,firebase" />
 </p>
 
 <h3>Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,php" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 <h3>Caching & Messaging</h3>
@@ -47,7 +47,7 @@
 
 <h3>DevOps & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,androidstudio,figma" />
 </p>
 
 ###

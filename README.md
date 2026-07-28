@@ -40,11 +40,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-<h3>Caching & Messaging</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=redis,kafka" />
-</p>
-
 <h3>DevOps & Tools</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,androidstudio,figma" />

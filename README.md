@@ -5,7 +5,7 @@
 ###
 
 <p align="left">
-  I’m pursuing a degree in Information Technology at Ho Chi Minh University of Transport (UTH). I have been building personal projects and continuously growing as a freelance full-stack web developer.
+Recent IT graduate from Ho Chi Minh University of Transport (UTH), focused on building <b>RESTful APIs</b>, designing databases, and implementing authentication. Looking for an entry-level <b>Backend Developer</b> role.
 </p>
 
 ###
